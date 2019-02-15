@@ -1,0 +1,9 @@
+data:
+  animal:
+    - monkey
+    - crow
+    - boar
+
+api:
+  key: d9b061d2123c87004b5b6841630a65fc
+  secret: c29a3ad97a071838
